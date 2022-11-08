@@ -1,0 +1,1 @@
+echo "# QuizApp" >> README.md
